@@ -28,10 +28,6 @@ Android-приложение для настройки проекционных 
 3. Соберите модуль `app`.
 4. Запустите на Android-устройстве с API 26+.
 
-## Примечание
-
-В среде генерации не было Android SDK/Gradle wrapper jar, поэтому проект подготовлен как Android Studio source project. Если Android Studio попросит обновить wrapper, подтвердите регенерацию локально.
-
 
 ## Compose / Kotlin 2.0 note
 
